@@ -1,4 +1,4 @@
-#Bíblia | Por Bruno Souza
+# Bíblia | Por Bruno Souza
 
 Banco de Dados com alguns ajustes de http://www.sydney.eti.br/a-biblia-em-sql-8-versoes-corrigidos-bugs/
 
