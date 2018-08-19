@@ -1,6 +1,6 @@
 # Bíblia | Por Bruno Souza
 
-Banco de Dados com alguns ajustes de http://www.sydney.eti.br/a-biblia-em-sql-8-versoes-corrigidos-bugs/
+Banco de Dados (Dentro da pasta app) com alguns ajustes de http://www.sydney.eti.br/a-biblia-em-sql-8-versoes-corrigidos-bugs/
 
 Classe Biblia é onde faz todos os tramites de busca, realizada na Classe BancoDados
 
