@@ -71,7 +71,7 @@ class Biblia extends BancoDados
         $busca = [
             'table' => 'versiculos v',
             'where' => [
-                ['v.ver_vrs_id', '=', 1],
+                ['v.ver_vrs_id', '=', 6],
                 $livId
             ],
             'join' => $join,
